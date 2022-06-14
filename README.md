@@ -7,3 +7,5 @@ Tracking Pixel Codes for ManyChat
 </head>
 
 
+https://support.manychat.com/en/support/solutions/articles/36000207023-manychat-pixel
+
